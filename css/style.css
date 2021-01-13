@@ -12,5 +12,44 @@
 .header-container{
     display: flex;
     flex-direction: column;
-
+}
+.carousel-section{
+    margin-top: 9%;
+}
+h3{
+    color: #FF136F;
+    font-size: 40px;
+}
+.categories-section{
+    margin-top: 10%;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+    height: 100px;
+    border-radius: 1em;
+}
+button{
+    background-image: linear-gradient(to bottom, #ae58ff 0%, #7e19dd 100%);
+}
+.bg-orange{
+    background-color: rgb(135, 90, 241);
+}
+.bg-orchid{
+    background-color: rgb(255, 145, 0);
+}
+.bg-blue{
+    background-color: rgb(0, 192, 128);
+}
+.subscribe{
+    background-color: #ede8fc;
+    border-radius: 1em;
+}
+.subscribe button{
+    display: block;
 }
